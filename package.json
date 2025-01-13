@@ -36,7 +36,7 @@
     "auth-header": "^1.0.0",
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
-    "http-proxy-middleware": "^2.0.6",
+    "http-proxy-middleware": "^3.0.0",
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21"
   },
